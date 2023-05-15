@@ -1,0 +1,2 @@
+module me.minseok.name {
+}

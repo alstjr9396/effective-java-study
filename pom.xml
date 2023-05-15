@@ -48,6 +48,12 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+
+        <dependency>
+            <groupId>me.minseok</groupId>
+            <artifactId>name-service</artifactId>
+            <version>1.0</version>
+        </dependency>
     </dependencies>
 
 </project>
